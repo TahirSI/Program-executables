@@ -1,11 +1,11 @@
 # Program Executables
-This repo has a range executables that you can play, relating to work I have done.
+This repo contains a range of executables that you can run.
 
-You can downlowd the entier repo or the indviuval files sepratly.
+You can download the entire repo or the individual files separately.
 _______
 
 ### Improve motor skills game folder
-The folder contains three ZIP files, IMS Mac, IMS Windows and IMS Linux.
+The folder contains three ZIP files; IMS Mac, IMS Windows and IMS Linux.
 
 #### _Arcutectures_
 
