@@ -1,17 +1,22 @@
-### Program-executables
-
+# Program Executables
 Thsi repo has a range executables that you can play, relating to work I have.
 
-### Improve motor skills game
+_______
+
+### Improve motor skills game folder
 The folder contains three ZIP files, IMS Mac, IMS Windows and IMS Linux.
 
-#### IMS Mac
-The Mac exutable can be ran on both Intel(64bit) & Apple silicon arcutectures.
+#### _Arcutectures_
 
-#### IMS Windows
-The Windows exutable can be ran on both Intel(64bit) & ARM(64bit) arcutectures.
+Mac
+- [x] Intel(64bit)
+- [x] Apple silicon (64bit)
 
-#### IMS Linux
-The Windows exutable can be ran on Linux(64bit) arcutectures.
+Windows
+- [x] Intel(64bit)
+- [x] ARM (64bit)
 
-# sd
+Linux
+- [x] Linux(64bit)
+
+---
