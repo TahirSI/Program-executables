@@ -1,6 +1,7 @@
 # Program Executables
-Thsi repo has a range executables that you can play, relating to work I have.
+This repo has a range executables that you can play, relating to work I have done.
 
+You can downlowd the entier repo or the indviuval files sepratly.
 _______
 
 ### Improve motor skills game folder
