@@ -11,5 +11,7 @@ The Mac exutable can be ran on both Intel(64bit) & Apple silicon arcutectures.
 #### IMS Windows
 The Windows exutable can be ran on both Intel(64bit) & ARM(64bit) arcutectures.
 
-#### _IMS Linux_
+#### IMS Linux
 The Windows exutable can be ran on Linux(64bit) arcutectures.
+
+#
