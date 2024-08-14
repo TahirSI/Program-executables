@@ -1,5 +1,5 @@
 # Program Executables
-This repo contains a range of executables that you can run. You can eaither download the entire repo or the individual files separately.
+This repo stores executables that you can run. You can eaither download the entire repo or the individual files separately.
 
 _**Please note:**_ There is no specific _License_ on this repo, so the [default copyright laws](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) is applyed.
 _______
