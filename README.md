@@ -6,6 +6,7 @@ _______
 
 ### Improve motor skills game folder
 This game is a signle player game, that can be played by using the keybord.
+
 The folder contains three ZIP files; IMS Mac, IMS Windows and IMS Linux.
 
 #### _Oprating Sytems_
